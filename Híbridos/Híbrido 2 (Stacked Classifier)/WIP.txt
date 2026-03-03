@@ -1,0 +1,2 @@
+Fusão em nível de decisão, porém concatenando os vetores das probabilidades de decisão e passando- 
+para uma árvore de decisão para aquisição de conhecimento. 
